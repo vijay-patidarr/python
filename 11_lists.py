@@ -15,5 +15,5 @@ print(student)
 
 # list slicing
 print(marks[0:3])  # prints elements from index 0 to 1
-# negetive indexing
+# how negetive indexing
 print(marks[-1])  # prints the last element of the list
