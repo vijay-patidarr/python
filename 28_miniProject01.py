@@ -1,4 +1,4 @@
-# creating a mini project to calcylate the room rent
+# creating a mini project to calculate the room rent
 
 # input we need from the user 
 print(" calculate the room rent enter following details" )
